@@ -1,24 +1,10 @@
-# README
+# Turbo Quote Generator App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+**Turbo gives you the speed of a single-page web application without having to write any JavaScript**
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## About the App
+With the quote editor, you can:
+1. create, update and delete quotes.
+2. When clicking on a quote, you access the page to create, update and delete dates. 
+3. On each date, you can add line items. 
+4. Every time you create, update, or delete a line item, the quote total gets updated.
